@@ -18,7 +18,5 @@ return array(
 		array( 'Trevlig och riktigt bra på det han gör! Jag är jätte nöjd med mitt nya totalrenoverade badrum. Rekommenderar verkligen!', 'Essi', 'för 3 år sedan' ),
 		array( 'Florian är väldigt trevlig och professionell . Vi är mycket nöjda med det utförda arbetet .', 'Dinko Hadzic', 'för 4 år sedan' ),
 	),
-	'bild_hero'      => 'foto-1.jpg',
-	'bilder'         => array( 'foto-2.jpg', 'foto-3.jpg', 'foto-4.jpg' ),
 	'ar_riktig'      => true,
 );
