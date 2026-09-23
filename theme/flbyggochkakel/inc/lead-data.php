@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'FL BYGG & KAKEL AB',
+	'bransch'        => 'Badrumsinstallatör',
 	'telefon'        => '072-715 80 80',
 	'telefon_tel'    => '+46727158080',
 	'ort'            => 'Uppsala',
